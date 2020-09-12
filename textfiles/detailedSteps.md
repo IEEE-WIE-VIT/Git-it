@@ -18,7 +18,7 @@ where "url you just copied" (without the quote marks) is the url to this reposit
 
 For example:
 ```
-git clone https://github.com/this-is-you/git_tutorial_task.git
+git clone https://github.com/this-is-you/git-it.git
 ```
 where `this-is-you` is your GitHub username. Here you're copying the contents of the git_tutorial_task repository on GitHub to your computer.
 
@@ -27,7 +27,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd git_tutorial_task
+cd git-it
 ```
 Now create a branch using the `git checkout` command:
 ```
