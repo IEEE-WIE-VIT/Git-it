@@ -1,4 +1,4 @@
-# git_tutorial_task
+# GIT IT 
 git repository for <b>Introduction to git and version control</b> webinar conducted by <b>IEEE WIE VIT</b> on 14 June 2020</br>
 
 ## resources -
@@ -11,8 +11,8 @@ git repository for <b>Introduction to git and version control</b> webinar conduc
 
 ## textfiles -
 <ol>
-  <li>see contribute.md for steps to complete the git task</li>
-  <li>see detailedsteps.md if you need further help</li>
+  <li>see contribute.md for steps to make your first open source contribution</li>
+  <li>see detailedsteps.md for elaborate steps</li>
  </ol>
 
 
