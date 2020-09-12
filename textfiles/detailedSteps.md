@@ -20,7 +20,7 @@ For example:
 ```
 git clone https://github.com/this-is-you/git-it.git
 ```
-where `this-is-you` is your GitHub username. Here you're copying the contents of the git_tutorial_task repository on GitHub to your computer.
+where `this-is-you` is your GitHub username. Here you're copying the contents of the git-it repository on GitHub to your computer.
 
 ## Create a branch
 
