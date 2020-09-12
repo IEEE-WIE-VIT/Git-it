@@ -1,0 +1,17 @@
+<ol>
+  <li>FORK THIS REPOSITORY</li>
+  <li>GIT CLONE "url you just copied"</li>
+  <li>CREATE A NEW BRANCH AS BRANCH NAME YOUR NAME</li>
+  <li>ADD A TXT FILE WITH YOUR NAME IN IN TEXTFILES FOLDER</li>
+  <li>COMMIT THE CHANGES</li>
+  <li>PUSH IT INTO YOUR REMOTE REPO</li>
+  <li>MAKE A PULL REQUEST</li>
+  
+</ol>
+
+
+
+
+
+
+
